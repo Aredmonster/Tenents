@@ -1,0 +1,7 @@
+### Tenents Deck: Mystic Starter Spare Deck
+5 FammiliarCard
+5 FireHanakCard
+5 FireSpiritCard
+5 FrostHanakCard
+5 FrostSpiritCard
+1 Patron of Chaos

@@ -1,0 +1,21 @@
+### Tenents Deck: Mystic Starter Main Deck
+1 AcidMistCard
+2 ApprentaceOfChaos
+1 ApprentaceOfOrder
+1 DecipleOfChaosCard
+2 Despell
+1 MagicBlast
+2 MagicBolt
+1 PhaseShiftCard
+2 Revival
+2 RiftCard
+1 ShamooCard
+2 SummonFamiliarCard
+1 SummonFireHanakCard
+2 SummonFireSpiritCard
+1 SummonFrostHanakCard
+2 SummonFrostSpiritCard
+1 UnstableBolt
+2 WardCard
+1 WitchDoctorCard
+2 Fatiuge
